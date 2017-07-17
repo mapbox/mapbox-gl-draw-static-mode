@@ -1,0 +1,25 @@
+{
+  "name": "@mapbox/mapbox-gl-draw-static-mode",
+  "version": "1.0.0",
+  "description": "a static geojson plugin for mapbox-gl-draw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapbox/mapbox-gl-draw-static-mode.git"
+  },
+  "keywords": [
+    "mapbox",
+    "mapbox-gl",
+    "mapbox-gl-draw",
+    "geojson"
+  ],
+  "author": "Matthew Whittemore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapbox/mapbox-gl-draw-static-mode/issues"
+  },
+  "homepage": "https://github.com/mapbox/mapbox-gl-draw-static-mode#readme"
+}
