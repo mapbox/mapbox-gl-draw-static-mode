@@ -1,6 +1,6 @@
 {
   "name": "@mapbox/mapbox-gl-draw-static-mode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a static geojson plugin for mapbox-gl-draw",
   "main": "index.js",
   "scripts": {
