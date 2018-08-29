@@ -1,6 +1,6 @@
 # Mapbox Draw Static Mode
 
-This is a custom mode for [@mapbox/mapbox-gl-draw]() that displays data stored in Draw but does not let the user interact with it.
+This is a custom mode for [@mapbox/mapbox-gl-draw](https://github.com/mapbox/mapbox-gl-draw) that displays data stored in Draw but does not let the user interact with it.
 
 This mode used to be one of the core modes prior to the `v1.0.0` release of Mapbox Draw.
 
